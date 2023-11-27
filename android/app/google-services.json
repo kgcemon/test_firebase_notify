@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973300397559",
+    "project_id": "pushtesting-aa766",
+    "storage_bucket": "pushtesting-aa766.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973300397559:android:b200d386e4e6026c6aeaf2",
+        "android_client_info": {
+          "package_name": "com.example.test_firebase_notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQgIu4YkMENLHHTdDI8c_JdeHDroE0_e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973300397559:android:4f77639a5db3ce216aeaf2",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQgIu4YkMENLHHTdDI8c_JdeHDroE0_e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
